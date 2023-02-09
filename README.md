@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 💼 I'm a Software Engineer at CTD, where I work on Yii2 + React JS.
 
 
-[E-mail](mailto:mailtogurcharan@gmail.com) | [Linkedin](https://www.linkedin.com/in/gurcharan-guri/) |  [Instagram](https://www.instagram.com/gurcharansinghguri/) | | [YouTube](https://www.youtube.com/@youweandcanada) | [GitHub](https://github.com/guri-dev/)
+[E-mail](mailto:mailtogurcharan@gmail.com) | [Linkedin](https://www.linkedin.com/in/gurcharan-guri/) |  [Instagram](https://www.instagram.com/gurcharansinghguri/) |  [YouTube](https://www.youtube.com/@youweandcanada) | [GitHub](https://github.com/guri-dev/)
 
 <!--
 ## Skills
