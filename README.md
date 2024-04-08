@@ -140,3 +140,4 @@ Here are some ideas to get you started:
 </div>
 
 -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guri-dev&margin-w=15&margin-h=15&theme=gruvbox" alt="s21sd" /></a> </p>
